@@ -1,6 +1,10 @@
-// Função para validar o digito da agencia para o banco Bradesco (via modulo 11)
-// Uma vez passado um parametro, o valor que a função retorna é o correto.
+// Função para validar o digito da agencia para o banco Bradesco (via modulo 11);
+// Uma vez passado um parametro, o valor que a função retorna é o correto;
 // Ex: no console -> calcDigitMod11('1768'); (passar em formato de string); (o valor correto a ser retornado nesse caso é 0);
+
+// Marco Bonuto
+// Contato: marco@cammino.com.br
+// Skype: marcobonutof@hotmail.com
 
 function calcDigitMod11(n){
   n = n.toString();

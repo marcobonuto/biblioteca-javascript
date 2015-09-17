@@ -1,5 +1,9 @@
 // Funçao em JS para validar data de aniversario;
+// Regra: nascido a partir de 1900 até data de atual;
+
+// Marco Bonuto
 // Contato: marco@cammino.com.br
+// Skype: marcobonutof@hotmail.com
 
 function validBirthDate(value) {
   

@@ -1,6 +1,10 @@
 // Função em JavaScript para validar a data de validade de cartao de crédito;
-// O input deve ser criado da seguinte maneira -> '99/9999'
-// Ele só aceita a partir do mês e ano atual, abaixo disso a validação barra
+// O input deve ser criado da seguinte maneira -> '99/9999';
+// Ele só aceita a partir do mês e ano atual, abaixo disso a validação barra;
+
+// Marco Bonuto
+// Contato: marco@cammino.com.br
+// Skype: marcobonutof@hotmail.com
 
 var validCreditCardDate = function(date_string) {
   re = /^(\d{1,2})\/(\d{1,4})$/;

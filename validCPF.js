@@ -1,5 +1,9 @@
 // Função em JavaScript para validar CPF;
 
+// Marco Bonuto
+// Contato: marco@cammino.com.br
+// Skype: marcobonutof@hotmail.com
+
 function validCNPJ(cnpj) {
 	//Limpa pontos e Traços da string
 	cnpj = cnpj.replace(/\./g, "");
